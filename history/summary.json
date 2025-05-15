@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 526
+      "2025-05-15": 532
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 526
+      "2025-05-15": 532
     }
   },
   {
@@ -110,7 +110,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 526
+      "2025-05-15": 532
     }
   },
   {
@@ -137,18 +137,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "devopsfreelancer-com",
     "status": "up",
-    "uptime": "56.22%",
-    "uptimeDay": "56.22%",
-    "uptimeWeek": "56.22%",
-    "uptimeMonth": "56.22%",
-    "uptimeYear": "56.22%",
+    "uptime": "55.66%",
+    "uptimeDay": "55.66%",
+    "uptimeWeek": "55.66%",
+    "uptimeMonth": "55.66%",
+    "uptimeYear": "55.66%",
     "time": 869,
     "timeDay": 869,
     "timeWeek": 869,
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2025-05-15": 230
+      "2025-05-15": 236
     }
   },
   {
@@ -222,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 526
+      "2025-05-15": 532
     }
   },
   {
@@ -321,18 +321,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/freeebooks.xyz.ico",
     "slug": "freeebooks-xyz",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 526
+      "2025-05-15": 531
     }
   },
   {
@@ -424,7 +424,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 526
+      "2025-05-15": 531
     }
   },
   {
@@ -498,7 +498,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-15": 526
+      "2025-05-15": 531
     }
   }
 ]
