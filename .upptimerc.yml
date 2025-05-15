@@ -46,7 +46,7 @@ sites:
     method: GET
     followRedirects: true
     expectedStatus: 200
-   ssl: true
+    ssl: true
   - name: DEVOPSCONSULTING.IN
     url: https://devopsconsulting.in
     method: GET
