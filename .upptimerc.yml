@@ -211,8 +211,8 @@ committer:
 # Email notification configuration
 notifications:
   - type: email
- #  smtpTo: contact@motoshare.in
- #  smtpFrom: contact@motoshare.in
+    smtpTo: contact@motoshare.in
+    smtpFrom: contact@motoshare.in
     smtpHost: smtp.gmail.com
     smtpPort: 587
     smtpUsername: contact@motoshare.in
