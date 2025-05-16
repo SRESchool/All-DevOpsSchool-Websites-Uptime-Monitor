@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 537
     }
   },
@@ -91,7 +91,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 537
     }
   },
@@ -112,7 +112,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 537
     }
   },
@@ -140,18 +140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "devopsfreelancer-com",
     "status": "up",
-    "uptime": "27.49%",
-    "uptimeDay": "27.49%",
-    "uptimeWeek": "27.49%",
-    "uptimeMonth": "27.49%",
-    "uptimeYear": "27.49%",
+    "uptime": "27.01%",
+    "uptimeDay": "27.01%",
+    "uptimeWeek": "27.01%",
+    "uptimeMonth": "27.01%",
+    "uptimeYear": "27.01%",
     "time": 880,
     "timeDay": 880,
     "timeWeek": 880,
     "timeMonth": 880,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 241
     }
   },
@@ -226,7 +226,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 537
     }
   },
@@ -337,7 +337,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 537
     }
   },
@@ -430,7 +430,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 537
     }
   },
@@ -505,7 +505,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-16": 539,
+      "2025-05-16": 559,
       "2025-05-15": 536
     }
   }
