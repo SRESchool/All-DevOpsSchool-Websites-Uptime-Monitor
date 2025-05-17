@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 251,
+    "timeDay": 249,
     "timeWeek": 259,
     "timeMonth": 259,
     "timeYear": 259,
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3319,
-    "timeDay": 3356,
+    "timeDay": 3365,
     "timeWeek": 3319,
     "timeMonth": 3319,
     "timeYear": 3319,
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 428,
+      "2025-05-17": 444,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 428,
+      "2025-05-17": 444,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 428,
+      "2025-05-17": 444,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -131,7 +131,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1108,
-    "timeDay": 1118,
+    "timeDay": 1119,
     "timeWeek": 1108,
     "timeMonth": 1108,
     "timeYear": 1108,
@@ -143,18 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "devopsfreelancer-com",
     "status": "up",
-    "uptime": "53.00%",
+    "uptime": "52.65%",
     "uptimeDay": "67.96%",
-    "uptimeWeek": "53.00%",
-    "uptimeMonth": "53.00%",
-    "uptimeYear": "53.00%",
+    "uptimeWeek": "52.65%",
+    "uptimeMonth": "52.65%",
+    "uptimeYear": "52.65%",
     "time": 880,
-    "timeDay": 893,
+    "timeDay": 892,
     "timeWeek": 880,
     "timeMonth": 880,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2025-05-17": 72,
+      "2025-05-17": 88,
       "2025-05-16": 817,
       "2025-05-15": 241
     }
@@ -171,7 +171,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2150,
-    "timeDay": 2138,
+    "timeDay": 2134,
     "timeWeek": 2150,
     "timeMonth": 2150,
     "timeYear": 2150,
@@ -189,7 +189,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2131,
-    "timeDay": 2149,
+    "timeDay": 2155,
     "timeWeek": 2131,
     "timeMonth": 2131,
     "timeYear": 2131,
@@ -207,7 +207,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 897,
-    "timeDay": 888,
+    "timeDay": 889,
     "timeWeek": 897,
     "timeMonth": 897,
     "timeYear": 897,
@@ -230,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 428,
+      "2025-05-17": 444,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -247,7 +247,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1591,
-    "timeDay": 1618,
+    "timeDay": 1614,
     "timeWeek": 1591,
     "timeMonth": 1591,
     "timeYear": 1591,
@@ -265,7 +265,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 650,
-    "timeDay": 660,
+    "timeDay": 662,
     "timeWeek": 650,
     "timeMonth": 650,
     "timeYear": 650,
@@ -277,18 +277,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devsecopsnow.com.ico",
     "slug": "devsecopsnow-com",
     "status": "down",
-    "uptime": "99.24%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "99.24%",
+    "uptime": "98.57%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "98.57%",
+    "uptimeYear": "98.57%",
     "time": 3954,
     "timeDay": 3986,
     "timeWeek": 3954,
     "timeMonth": 3954,
     "timeYear": 3954,
     "dailyMinutesDown": {
-      "2025-05-17": 18
+      "2025-05-17": 35
     }
   },
   {
@@ -303,7 +303,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 342,
-    "timeDay": 334,
+    "timeDay": 333,
     "timeWeek": 342,
     "timeMonth": 342,
     "timeYear": 342,
@@ -321,7 +321,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 347,
-    "timeDay": 340,
+    "timeDay": 339,
     "timeWeek": 347,
     "timeMonth": 347,
     "timeYear": 347,
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 428,
+      "2025-05-17": 444,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -361,7 +361,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 334,
+    "timeDay": 331,
     "timeWeek": 344,
     "timeMonth": 344,
     "timeYear": 344,
@@ -379,7 +379,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 327,
+    "timeDay": 324,
     "timeWeek": 337,
     "timeMonth": 337,
     "timeYear": 337,
@@ -397,7 +397,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2506,
-    "timeDay": 2540,
+    "timeDay": 2545,
     "timeWeek": 2506,
     "timeMonth": 2506,
     "timeYear": 2506,
@@ -415,7 +415,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2348,
-    "timeDay": 2412,
+    "timeDay": 2419,
     "timeWeek": 2348,
     "timeMonth": 2348,
     "timeYear": 2348,
@@ -438,7 +438,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 428,
+      "2025-05-17": 444,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -455,7 +455,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2977,
-    "timeDay": 3021,
+    "timeDay": 3029,
     "timeWeek": 2977,
     "timeMonth": 2977,
     "timeYear": 2977,
@@ -473,7 +473,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2813,
-    "timeDay": 2836,
+    "timeDay": 2838,
     "timeWeek": 2813,
     "timeMonth": 2813,
     "timeYear": 2813,
@@ -491,7 +491,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 251,
+    "timeDay": 249,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
@@ -514,7 +514,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 428,
+      "2025-05-17": 444,
       "2025-05-16": 1440,
       "2025-05-15": 536
     }
