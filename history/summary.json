@@ -144,7 +144,7 @@
     "slug": "devopsfreelancer-com",
     "status": "up",
     "uptime": "47.04%",
-    "uptimeDay": "68.00%",
+    "uptimeDay": "68.02%",
     "uptimeWeek": "47.04%",
     "uptimeMonth": "47.04%",
     "uptimeYear": "47.04%",
@@ -220,7 +220,7 @@
     "slug": "devopsschool-org",
     "status": "up",
     "uptime": "9.48%",
-    "uptimeDay": "17.84%",
+    "uptimeDay": "17.86%",
     "uptimeWeek": "9.48%",
     "uptimeMonth": "9.48%",
     "uptimeYear": "9.48%",
@@ -278,7 +278,7 @@
     "slug": "devsecopsnow-com",
     "status": "down",
     "uptime": "88.03%",
-    "uptimeDay": "77.48%",
+    "uptimeDay": "77.46%",
     "uptimeWeek": "88.03%",
     "uptimeMonth": "88.03%",
     "uptimeYear": "88.03%",
@@ -288,7 +288,7 @@
     "timeMonth": 3954,
     "timeYear": 3954,
     "dailyMinutesDown": {
-      "2025-05-17": 324
+      "2025-05-17": 325
     }
   },
   {
