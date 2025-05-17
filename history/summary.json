@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 251,
+    "timeDay": 250,
     "timeWeek": 258,
     "timeMonth": 258,
     "timeYear": 258,
@@ -29,7 +29,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1530,
-    "timeDay": 1567,
+    "timeDay": 1568,
     "timeWeek": 1530,
     "timeMonth": 1530,
     "timeYear": 1530,
@@ -70,7 +70,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 352,
+      "2025-05-17": 357,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -92,7 +92,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 352,
+      "2025-05-17": 357,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -114,7 +114,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 352,
+      "2025-05-17": 357,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -143,17 +143,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "devopsfreelancer-com",
     "status": "up",
-    "uptime": "54.54%",
-    "uptimeDay": "67.66%",
-    "uptimeWeek": "54.54%",
-    "uptimeMonth": "54.54%",
-    "uptimeYear": "54.54%",
+    "uptime": "54.61%",
+    "uptimeDay": "67.96%",
+    "uptimeWeek": "54.61%",
+    "uptimeMonth": "54.61%",
+    "uptimeYear": "54.61%",
     "time": 884,
     "timeDay": 896,
     "timeWeek": 884,
     "timeMonth": 884,
     "timeYear": 884,
     "dailyMinutesDown": {
+      "2025-05-17": 1,
       "2025-05-16": 817,
       "2025-05-15": 241
     }
@@ -229,7 +230,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 352,
+      "2025-05-17": 357,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -341,7 +342,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 352,
+      "2025-05-17": 357,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -435,7 +436,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 352,
+      "2025-05-17": 357,
       "2025-05-16": 1440,
       "2025-05-15": 537
     }
@@ -511,7 +512,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 352,
+      "2025-05-17": 357,
       "2025-05-16": 1440,
       "2025-05-15": 536
     }
