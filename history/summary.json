@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiopsschool.com.ico",
     "slug": "aiopsschool-com",
     "status": "up",
-    "uptime": "90.53%",
-    "uptimeDay": "72.03%",
-    "uptimeWeek": "90.53%",
-    "uptimeMonth": "90.53%",
-    "uptimeYear": "90.53%",
+    "uptime": "90.42%",
+    "uptimeDay": "71.67%",
+    "uptimeWeek": "90.42%",
+    "uptimeMonth": "90.42%",
+    "uptimeYear": "90.42%",
     "time": 265,
-    "timeDay": 273,
+    "timeDay": 271,
     "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-05-18": 403
+      "2025-05-18": 408
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiuniverse.xyz.ico",
     "slug": "aiuniverse-xyz",
     "status": "up",
-    "uptime": "90.54%",
-    "uptimeDay": "72.07%",
-    "uptimeWeek": "90.54%",
-    "uptimeMonth": "90.54%",
-    "uptimeYear": "90.54%",
-    "time": 1569,
-    "timeDay": 1645,
-    "timeWeek": 1569,
-    "timeMonth": 1569,
-    "timeYear": 1569,
+    "uptime": "90.43%",
+    "uptimeDay": "71.70%",
+    "uptimeWeek": "90.43%",
+    "uptimeMonth": "90.43%",
+    "uptimeYear": "90.43%",
+    "time": 1572,
+    "timeDay": 1650,
+    "timeWeek": 1572,
+    "timeMonth": 1572,
+    "timeYear": 1572,
     "dailyMinutesDown": {
-      "2025-05-18": 402
+      "2025-05-18": 407
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bestdevops.com.ico",
     "slug": "bestdevops-com",
     "status": "up",
-    "uptime": "90.55%",
-    "uptimeDay": "72.10%",
-    "uptimeWeek": "90.55%",
-    "uptimeMonth": "90.55%",
-    "uptimeYear": "90.55%",
-    "time": 3332,
-    "timeDay": 3376,
-    "timeWeek": 3332,
-    "timeMonth": 3332,
-    "timeYear": 3332,
+    "uptime": "90.44%",
+    "uptimeDay": "71.74%",
+    "uptimeWeek": "90.44%",
+    "uptimeMonth": "90.44%",
+    "uptimeYear": "90.44%",
+    "time": 3342,
+    "timeDay": 3408,
+    "timeWeek": 3342,
+    "timeMonth": 3342,
+    "timeYear": 3342,
     "dailyMinutesDown": {
-      "2025-05-18": 402
+      "2025-05-18": 407
     }
   },
   {
@@ -76,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 835,
+      "2025-05-18": 840,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 537
@@ -99,7 +99,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 835,
+      "2025-05-18": 840,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 537
@@ -122,7 +122,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 835,
+      "2025-05-18": 840,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 537
@@ -134,18 +134,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsconsulting.in.ico",
     "slug": "devopsconsulting-in",
     "status": "up",
-    "uptime": "90.56%",
-    "uptimeDay": "72.14%",
-    "uptimeWeek": "90.56%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "90.56%",
-    "time": 1126,
-    "timeDay": 1101,
-    "timeWeek": 1126,
-    "timeMonth": 1126,
-    "timeYear": 1126,
+    "uptime": "90.45%",
+    "uptimeDay": "71.78%",
+    "uptimeWeek": "90.45%",
+    "uptimeMonth": "90.45%",
+    "uptimeYear": "90.45%",
+    "time": 1128,
+    "timeDay": 1106,
+    "timeWeek": 1128,
+    "timeMonth": 1128,
+    "timeYear": 1128,
     "dailyMinutesDown": {
-      "2025-05-18": 401
+      "2025-05-18": 406
     }
   },
   {
@@ -154,16 +154,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsfreelancer.com.ico",
     "slug": "devopsfreelancer-com",
     "status": "up",
-    "uptime": "42.68%",
+    "uptime": "42.75%",
     "uptimeDay": "30.45%",
-    "uptimeWeek": "42.68%",
-    "uptimeMonth": "42.68%",
-    "uptimeYear": "42.68%",
-    "time": 919,
-    "timeDay": 1013,
-    "timeWeek": 919,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "uptimeWeek": "42.75%",
+    "uptimeMonth": "42.75%",
+    "uptimeYear": "42.75%",
+    "time": 921,
+    "timeDay": 1016,
+    "timeWeek": 921,
+    "timeMonth": 921,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-05-18": 808,
       "2025-05-17": 570,
@@ -177,18 +177,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsschool.com.ico",
     "slug": "devopsschool-com",
     "status": "up",
-    "uptime": "90.59%",
-    "uptimeDay": "72.21%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "90.59%",
-    "uptimeYear": "90.59%",
-    "time": 2154,
-    "timeDay": 2156,
-    "timeWeek": 2154,
-    "timeMonth": 2154,
-    "timeYear": 2154,
+    "uptime": "90.48%",
+    "uptimeDay": "71.85%",
+    "uptimeWeek": "90.48%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "90.48%",
+    "time": 2152,
+    "timeDay": 2151,
+    "timeWeek": 2152,
+    "timeMonth": 2152,
+    "timeYear": 2152,
     "dailyMinutesDown": {
-      "2025-05-18": 400
+      "2025-05-18": 405
     }
   },
   {
@@ -197,18 +197,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsschool.nl.ico",
     "slug": "devopsschool-nl",
     "status": "up",
-    "uptime": "90.60%",
-    "uptimeDay": "72.25%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "90.60%",
-    "uptimeYear": "90.60%",
-    "time": 2127,
-    "timeDay": 2168,
-    "timeWeek": 2127,
-    "timeMonth": 2127,
-    "timeYear": 2127,
+    "uptime": "90.49%",
+    "uptimeDay": "71.88%",
+    "uptimeWeek": "90.49%",
+    "uptimeMonth": "90.49%",
+    "uptimeYear": "90.49%",
+    "time": 2128,
+    "timeDay": 2172,
+    "timeWeek": 2128,
+    "timeMonth": 2128,
+    "timeYear": 2128,
     "dailyMinutesDown": {
-      "2025-05-18": 400
+      "2025-05-18": 405
     }
   },
   {
@@ -217,18 +217,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsschool.jp.ico",
     "slug": "devopsschool-jp",
     "status": "up",
-    "uptime": "90.61%",
-    "uptimeDay": "72.28%",
-    "uptimeWeek": "90.61%",
-    "uptimeMonth": "90.61%",
-    "uptimeYear": "90.61%",
-    "time": 919,
-    "timeDay": 962,
-    "timeWeek": 919,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "uptime": "90.50%",
+    "uptimeDay": "71.92%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "90.50%",
+    "uptimeYear": "90.50%",
+    "time": 918,
+    "timeDay": 958,
+    "timeWeek": 918,
+    "timeMonth": 918,
+    "timeYear": 918,
     "dailyMinutesDown": {
-      "2025-05-18": 399
+      "2025-05-18": 404
     }
   },
   {
@@ -237,18 +237,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsschool.org.ico",
     "slug": "devopsschool-org",
     "status": "up",
-    "uptime": "32.91%",
-    "uptimeDay": "72.32%",
-    "uptimeWeek": "32.91%",
-    "uptimeMonth": "32.91%",
-    "uptimeYear": "32.91%",
-    "time": 519,
-    "timeDay": 518,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "uptime": "32.87%",
+    "uptimeDay": "71.95%",
+    "uptimeWeek": "32.87%",
+    "uptimeMonth": "32.87%",
+    "uptimeYear": "32.87%",
+    "time": 520,
+    "timeDay": 519,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2025-05-18": 399,
+      "2025-05-18": 404,
       "2025-05-17": 477,
       "2025-05-16": 1440,
       "2025-05-15": 537
@@ -260,18 +260,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopsschool.xyz.ico",
     "slug": "devopsschool-xyz",
     "status": "up",
-    "uptime": "90.64%",
-    "uptimeDay": "72.35%",
-    "uptimeWeek": "90.64%",
-    "uptimeMonth": "90.64%",
-    "uptimeYear": "90.64%",
-    "time": 1581,
-    "timeDay": 1576,
-    "timeWeek": 1581,
-    "timeMonth": 1581,
-    "timeYear": 1581,
+    "uptime": "90.53%",
+    "uptimeDay": "71.99%",
+    "uptimeWeek": "90.53%",
+    "uptimeMonth": "90.53%",
+    "uptimeYear": "90.53%",
+    "time": 1583,
+    "timeDay": 1582,
+    "timeWeek": 1583,
+    "timeMonth": 1583,
+    "timeYear": 1583,
     "dailyMinutesDown": {
-      "2025-05-18": 398
+      "2025-05-18": 403
     }
   },
   {
@@ -280,18 +280,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devopssupport.in.ico",
     "slug": "devopssupport-in",
     "status": "up",
-    "uptime": "90.65%",
-    "uptimeDay": "72.39%",
-    "uptimeWeek": "90.65%",
-    "uptimeMonth": "90.65%",
-    "uptimeYear": "90.65%",
-    "time": 645,
-    "timeDay": 637,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "uptime": "90.54%",
+    "uptimeDay": "72.03%",
+    "uptimeWeek": "90.54%",
+    "uptimeMonth": "90.54%",
+    "uptimeYear": "90.54%",
+    "time": 646,
+    "timeDay": 641,
+    "timeWeek": 646,
+    "timeMonth": 646,
+    "timeYear": 646,
     "dailyMinutesDown": {
-      "2025-05-18": 398
+      "2025-05-18": 403
     }
   },
   {
@@ -300,18 +300,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devsecopsnow.com.ico",
     "slug": "devsecopsnow-com",
     "status": "down",
-    "uptime": "56.13%",
+    "uptime": "56.06%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "56.13%",
-    "uptimeMonth": "56.13%",
-    "uptimeYear": "56.13%",
+    "uptimeWeek": "56.06%",
+    "uptimeMonth": "56.06%",
+    "uptimeYear": "56.06%",
     "time": 3954,
     "timeDay": 0,
     "timeWeek": 3954,
     "timeMonth": 3954,
     "timeYear": 3954,
     "dailyMinutesDown": {
-      "2025-05-18": 835,
+      "2025-05-18": 840,
       "2025-05-17": 1031
     }
   },
@@ -321,18 +321,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/devsecopsschool.com.ico",
     "slug": "devsecopsschool-com",
     "status": "up",
-    "uptime": "90.66%",
-    "uptimeDay": "72.43%",
-    "uptimeWeek": "90.66%",
-    "uptimeMonth": "90.66%",
-    "uptimeYear": "90.66%",
-    "time": 343,
-    "timeDay": 338,
-    "timeWeek": 343,
-    "timeMonth": 343,
-    "timeYear": 343,
+    "uptime": "90.55%",
+    "uptimeDay": "72.06%",
+    "uptimeWeek": "90.55%",
+    "uptimeMonth": "90.55%",
+    "uptimeYear": "90.55%",
+    "time": 342,
+    "timeDay": 336,
+    "timeWeek": 342,
+    "timeMonth": 342,
+    "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-05-18": 397
+      "2025-05-18": 402
     }
   },
   {
@@ -341,18 +341,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/finopsschool.com.ico",
     "slug": "finopsschool-com",
     "status": "up",
-    "uptime": "90.67%",
-    "uptimeDay": "72.46%",
-    "uptimeWeek": "90.67%",
-    "uptimeMonth": "90.67%",
-    "uptimeYear": "90.67%",
-    "time": 345,
-    "timeDay": 336,
-    "timeWeek": 345,
-    "timeMonth": 345,
-    "timeYear": 345,
+    "uptime": "90.56%",
+    "uptimeDay": "72.10%",
+    "uptimeWeek": "90.56%",
+    "uptimeMonth": "90.56%",
+    "uptimeYear": "90.56%",
+    "time": 344,
+    "timeDay": 334,
+    "timeWeek": 344,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-05-18": 397
+      "2025-05-18": 402
     }
   },
   {
@@ -372,7 +372,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 835,
+      "2025-05-18": 840,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 537
@@ -384,18 +384,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/noopsschool.com.ico",
     "slug": "noopsschool-com",
     "status": "up",
-    "uptime": "90.68%",
-    "uptimeDay": "72.50%",
-    "uptimeWeek": "90.68%",
-    "uptimeMonth": "90.68%",
-    "uptimeYear": "90.68%",
-    "time": 347,
-    "timeDay": 343,
-    "timeWeek": 347,
-    "timeMonth": 347,
-    "timeYear": 347,
+    "uptime": "90.57%",
+    "uptimeDay": "72.13%",
+    "uptimeWeek": "90.57%",
+    "uptimeMonth": "90.57%",
+    "uptimeYear": "90.57%",
+    "time": 346,
+    "timeDay": 341,
+    "timeWeek": 346,
+    "timeMonth": 346,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2025-05-18": 396
+      "2025-05-18": 401
     }
   },
   {
@@ -404,18 +404,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/quantumopsschool.com.ico",
     "slug": "quantumopsschool-com",
     "status": "up",
-    "uptime": "90.70%",
-    "uptimeDay": "72.53%",
-    "uptimeWeek": "90.70%",
-    "uptimeMonth": "90.70%",
-    "uptimeYear": "90.70%",
-    "time": 344,
-    "timeDay": 348,
-    "timeWeek": 344,
-    "timeMonth": 344,
-    "timeYear": 344,
+    "uptime": "90.59%",
+    "uptimeDay": "72.17%",
+    "uptimeWeek": "90.59%",
+    "uptimeMonth": "90.59%",
+    "uptimeYear": "90.59%",
+    "time": 343,
+    "timeDay": 345,
+    "timeWeek": 343,
+    "timeMonth": 343,
+    "timeYear": 343,
     "dailyMinutesDown": {
-      "2025-05-18": 396
+      "2025-05-18": 401
     }
   },
   {
@@ -424,18 +424,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/quantumuting.com.ico",
     "slug": "quantumuting-com",
     "status": "up",
-    "uptime": "90.71%",
-    "uptimeDay": "72.57%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "90.71%",
-    "uptimeYear": "90.71%",
-    "time": 2510,
-    "timeDay": 2472,
-    "timeWeek": 2510,
-    "timeMonth": 2510,
-    "timeYear": 2510,
+    "uptime": "90.60%",
+    "uptimeDay": "72.20%",
+    "uptimeWeek": "90.60%",
+    "uptimeMonth": "90.60%",
+    "uptimeYear": "90.60%",
+    "time": 2511,
+    "timeDay": 2476,
+    "timeWeek": 2511,
+    "timeMonth": 2511,
+    "timeYear": 2511,
     "dailyMinutesDown": {
-      "2025-05-18": 395
+      "2025-05-18": 400
     }
   },
   {
@@ -444,18 +444,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/robotsops.com.ico",
     "slug": "robotsops-com",
     "status": "up",
-    "uptime": "90.72%",
-    "uptimeDay": "72.61%",
-    "uptimeWeek": "90.72%",
-    "uptimeMonth": "90.72%",
-    "uptimeYear": "90.72%",
-    "time": 2339,
-    "timeDay": 2353,
-    "timeWeek": 2339,
-    "timeMonth": 2339,
-    "timeYear": 2339,
+    "uptime": "90.61%",
+    "uptimeDay": "72.24%",
+    "uptimeWeek": "90.61%",
+    "uptimeMonth": "90.61%",
+    "uptimeYear": "90.61%",
+    "time": 2340,
+    "timeDay": 2357,
+    "timeWeek": 2340,
+    "timeMonth": 2340,
+    "timeYear": 2340,
     "dailyMinutesDown": {
-      "2025-05-18": 394
+      "2025-05-18": 400
     }
   },
   {
@@ -475,7 +475,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 835,
+      "2025-05-18": 840,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 537
@@ -487,18 +487,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/theaiops.com.ico",
     "slug": "theaiops-com",
     "status": "up",
-    "uptime": "90.73%",
-    "uptimeDay": "72.64%",
-    "uptimeWeek": "90.73%",
-    "uptimeMonth": "90.73%",
-    "uptimeYear": "90.73%",
-    "time": 2917,
-    "timeDay": 2861,
-    "timeWeek": 2917,
-    "timeMonth": 2917,
-    "timeYear": 2917,
+    "uptime": "90.62%",
+    "uptimeDay": "72.28%",
+    "uptimeWeek": "90.62%",
+    "uptimeMonth": "90.62%",
+    "uptimeYear": "90.62%",
+    "time": 2919,
+    "timeDay": 2866,
+    "timeWeek": 2919,
+    "timeMonth": 2919,
+    "timeYear": 2919,
     "dailyMinutesDown": {
-      "2025-05-18": 394
+      "2025-05-18": 399
     }
   },
   {
@@ -507,18 +507,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thedataops.org.ico",
     "slug": "thedataops-org",
     "status": "up",
-    "uptime": "90.75%",
-    "uptimeDay": "72.68%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "90.75%",
-    "uptimeYear": "90.75%",
-    "time": 2773,
-    "timeDay": 2722,
-    "timeWeek": 2773,
-    "timeMonth": 2773,
-    "timeYear": 2773,
+    "uptime": "90.63%",
+    "uptimeDay": "72.31%",
+    "uptimeWeek": "90.63%",
+    "uptimeMonth": "90.63%",
+    "uptimeYear": "90.63%",
+    "time": 2774,
+    "timeDay": 2728,
+    "timeWeek": 2774,
+    "timeMonth": 2774,
+    "timeYear": 2774,
     "dailyMinutesDown": {
-      "2025-05-18": 393
+      "2025-05-18": 399
     }
   },
   {
@@ -527,18 +527,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sreschool.com.ico",
     "slug": "sreschool-com",
     "status": "up",
-    "uptime": "90.76%",
-    "uptimeDay": "72.71%",
-    "uptimeWeek": "90.76%",
-    "uptimeMonth": "90.76%",
-    "uptimeYear": "90.76%",
-    "time": 262,
-    "timeDay": 265,
-    "timeWeek": 262,
-    "timeMonth": 262,
-    "timeYear": 262,
+    "uptime": "90.65%",
+    "uptimeDay": "72.35%",
+    "uptimeWeek": "90.65%",
+    "uptimeMonth": "90.65%",
+    "uptimeYear": "90.65%",
+    "time": 261,
+    "timeDay": 262,
+    "timeWeek": 261,
+    "timeMonth": 261,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-05-18": 393
+      "2025-05-18": 398
     }
   },
   {
@@ -558,7 +558,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-18": 835,
+      "2025-05-18": 840,
       "2025-05-17": 1440,
       "2025-05-16": 1440,
       "2025-05-15": 536
